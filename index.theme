@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Shadow
 Comment=Linux icons with long shadow
-Inherits=Adwaita
+Inherits=elementary-xfce-darker
 Example=folder
 
 # Directory list
